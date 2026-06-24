@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Ayman Zaara A 👋
+<img align="right" width="250" src="https://github.com/user-attachments/assets/9c146828-8e12-4301-baef-4d4b03193f93" />
+🎓 Third-Year Engineering Student at Sai Vidya Institute of Technology
 
-<!--
-**aymanzaara-tech/aymanzaara-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about software development, full-stack web development, and problem-solving. I enjoy transforming ideas into practical applications and continuously expanding my technical expertise through hands-on projects, academic learning, and self-driven exploration.
 
-Here are some ideas to get you started:
+### 🚀 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js
+* Backend Development: Node.js, Express.js
+* Database Management: SQL
+* Programming Languages: Python, Java, C, C++
+* Tools & Technologies: Git, GitHub, VS Code, REST APIs
+* Core Concepts: Data Structures & Algorithms, Object-Oriented Programming, Responsive Web Design
+
+### 🏆 Certifications
+
+* NPTEL Certified – Predictive Modelling
+
+  * Gained foundational knowledge in data analysis, predictive techniques, and model evaluation methodologies.
+
+### 🌱 Currently Learning
+
+* Advanced React Development
+* Backend Application Development
+* Software Engineering Best Practices
+* Database Design and Management
+* Full-Stack Project Development
+
+### 💻 What You'll Find Here
+
+* Full-Stack Web Development Projects
+* Academic and Personal Coding Projects
+* Problem-Solving Practice
+* Continuous Learning and Skill Development
+* Real-World Application Development
+
+### 🎯 Career Objective
+
+Aspiring Software Engineer with a strong interest in web technologies and application development. Seeking internship opportunities to apply my technical skills, gain industry experience, and contribute to impactful projects while continuing to grow as a developer.
+
+### 📈 Beyond Coding
+
+I believe in continuous learning, consistency, and building solutions that create real value. Every project is an opportunity to improve, innovate, and move one step closer to becoming a better engineer.
+
+📫 Open to Internship Opportunities, Collaborations, and Tech Discussions.
+
+"Building practical solutions through code, curiosity, and continuous learning."
