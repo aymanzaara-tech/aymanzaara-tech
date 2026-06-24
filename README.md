@@ -1,5 +1,6 @@
 # Hi, I'm Ayman Zaara A 👋
-<img align="right" width="250" src="https://github.com/user-attachments/assets/9c146828-8e12-4301-baef-4d4b03193f93" />
+<img width="578" height="578" alt="GITHUB2" src="https://github.com/user-attachments/assets/800442f5-03af-4dfa-801e-046416ac505d" />
+
 🎓 Third-Year Engineering Student at Sai Vidya Institute of Technology
 
 Passionate about software development, full-stack web development, and problem-solving. I enjoy transforming ideas into practical applications and continuously expanding my technical expertise through hands-on projects, academic learning, and self-driven exploration.
