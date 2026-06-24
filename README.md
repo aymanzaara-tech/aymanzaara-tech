@@ -1,5 +1,6 @@
 # Hi, I'm Ayman Zaara A 👋
-<img width="578" height="578" alt="GITHUB2" src="https://github.com/user-attachments/assets/800442f5-03af-4dfa-801e-046416ac505d" />
+<img align="left" width="250"  src="https://github.com/user-attachments/assets/d10a59bd-d0f6-449f-8da7-d0f4ebea4dfa" />
+
 
 🎓 Third-Year Engineering Student at Sai Vidya Institute of Technology
 
