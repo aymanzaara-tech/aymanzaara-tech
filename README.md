@@ -2,25 +2,30 @@
 
 ## Backend Developer | Software Engineering Enthusiast
 
-I'm a Computer Science Engineering student passionate about building scalable backend systems, full-stack applications, and intelligent software solutions.
+I'm a Computer Science Engineering undergraduate passionate about building scalable backend systems, full-stack applications, and intelligent software solutions.
 
-Currently working on a Smart Campus Digital Twin that combines backend engineering, cloud databases, analytics, and AI-powered technologies.
+Currently focused on backend engineering, cloud technologies, and real-world software development through impactful academic and personal projects.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.E. Computer Science Engineering (2023–2027)
-- 💻 Backend Developer & Team Lead – TwinVerse Smart Campus Digital Twin
-- 🌱 Currently learning Advanced Backend Development & System Design
-- 🔍 Interested in Backend Development, Full-Stack Development, Cloud Computing, and AI Applications
-- 📍 Bengaluru, India
+🎓 B.E. Computer Science Engineering (2023 – 2027)
+
+💻 Backend Developer & Team Lead – TwinVerse Smart Campus Digital Twin
+
+🌱 Currently learning Advanced Backend Development, System Design, and Cloud Technologies
+
+🔍 Interested in Backend Development, Full-Stack Development, Artificial Intelligence, and Scalable Software Engineering
+
+📍 Bengaluru, India
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
+
 - Python
 - JavaScript (ES6)
 - SQL
@@ -28,6 +33,7 @@ Currently working on a Smart Campus Digital Twin that combines backend engineeri
 - C (Basic)
 
 ### Backend
+
 - FastAPI
 - Node.js
 - Express.js
@@ -35,73 +41,93 @@ Currently working on a Smart Campus Digital Twin that combines backend engineeri
 - Firebase Realtime Database
 
 ### Frontend
+
 - React.js
 - HTML5
 - CSS3
 
 ### Libraries
+
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-learn
 
-### Tools
+### Developer Tools
+
 - Git
 - GitHub
+- VS Code
 - Postman
 - Swagger UI
-- VS Code
 - Uvicorn
 - ngrok
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏢 TwinVerse – Smart Campus Digital Twin
-Backend Developer & Team Lead
+## 🏢 TwinVerse – Smart Campus Digital Twin
+
+**Backend Developer & Team Lead**
+
+A cloud-connected Digital Twin platform for smart campus monitoring and analytics.
+
+**Highlights**
 
 - FastAPI Backend
-- Firebase Integration
+- Firebase Realtime Database
 - REST APIs
-- Smart Analytics
-- Digital Twin Architecture
+- Indoor Air Quality Analytics
+- Comfort Score
+- Learning Quality Index
+- Smart Energy Recommendations
+- Cooling Demand Prediction
+- React Dashboard
 
 ---
 
-### 💄 Makeup Compatibility Analyzer *(Ongoing)*
+## 💄 Makeup Compatibility Analyzer
 
-Full-stack application built using React, Node.js, Express.js, and Firecrawl API for personalized makeup compatibility analysis.
+Full-stack web application that analyzes makeup routine compatibility using live cosmetic product information and personalized recommendation logic.
 
----
+**Tech Stack**
 
-### 🚕 Auto Fare Anomaly Detector
-
-Machine Learning project that detects anomalous auto-rickshaw fares using regression models and data analytics.
+React.js • Node.js • Express.js • Firecrawl API • REST APIs
 
 ---
 
-### 📱 ZeroNet Control
+## 🚕 Auto Fare Anomaly Detector
 
-Python-based remote phone management solution using secure SMS command automation.
+Machine Learning application that predicts and detects anomalous auto-rickshaw fares using regression models and data analytics.
 
 ---
 
-## 📈 Currently Working On
+## 📱 ZeroNet Control
+
+Python-based phone management solution enabling secure SMS-based remote command execution without internet connectivity.
+
+---
+
+# 📈 Currently Working On
 
 - TwinVerse Smart Campus Digital Twin
-- Makeup Compatibility Analyzer
-- Backend Development
-- Software Engineering
+- Advanced Backend Development
+- System Design
+- Internship Preparation
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/ayman-zaara-a-a8980230
-- GitHub: https://github.com/aymanzaara-tech
-- Email: aymanzaara1234@gmail.com
+📧 Email: aymanzaara1234@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/ayman-zaara-a-a8980230
+
+💻 GitHub:
+https://github.com/aymanzaara-tech
 
 ---
 
-⭐ Always learning, building, and improving through real-world software projects.
+⭐ I enjoy solving real-world problems through software engineering and continuously learning new technologies.
