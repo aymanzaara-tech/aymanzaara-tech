@@ -1,48 +1,107 @@
-# Hi, I'm Ayman Zaara A 👋
+# Hi there, I'm Ayman Zaara 👋
 
-🎓 Third-Year Engineering Student at Sai Vidya Institute of Technology
+## Backend Developer | Software Engineering Enthusiast
 
-Passionate about software development, full-stack web development, and problem-solving. I enjoy transforming ideas into practical applications and continuously expanding my technical expertise through hands-on projects, academic learning, and self-driven exploration.
+I'm a Computer Science Engineering student passionate about building scalable backend systems, full-stack applications, and intelligent software solutions.
 
-### 🚀 Technical Skills
+Currently working on a Smart Campus Digital Twin that combines backend engineering, cloud databases, analytics, and AI-powered technologies.
 
-* Frontend Development: HTML5, CSS3, JavaScript (ES6+), React.js
-* Backend Development: Node.js, Express.js
-* Database Management: SQL
-* Programming Languages: Python, Java, C, C++
-* Tools & Technologies: Git, GitHub, VS Code, REST APIs
-* Core Concepts: Data Structures & Algorithms, Object-Oriented Programming, Responsive Web Design
+---
 
-### 🏆 Certifications
+## 🚀 About Me
 
-* NPTEL Certified – Predictive Modelling
+- 🎓 B.E. Computer Science Engineering (2023–2027)
+- 💻 Backend Developer & Team Lead – TwinVerse Smart Campus Digital Twin
+- 🌱 Currently learning Advanced Backend Development & System Design
+- 🔍 Interested in Backend Development, Full-Stack Development, Cloud Computing, and AI Applications
+- 📍 Bengaluru, India
 
-  * Gained foundational knowledge in data analysis, predictive techniques, and model evaluation methodologies.
+---
 
-### 🌱 Currently Learning
+## 🛠 Tech Stack
 
-* Advanced React Development
-* Backend Application Development
-* Software Engineering Best Practices
-* Database Design and Management
-* Full-Stack Project Development
+### Languages
+- Python
+- JavaScript (ES6)
+- SQL
+- Java (Basic)
+- C (Basic)
 
-### 💻 What You'll Find Here
+### Backend
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- Firebase Realtime Database
 
-* Full-Stack Web Development Projects
-* Academic and Personal Coding Projects
-* Problem-Solving Practice
-* Continuous Learning and Skill Development
-* Real-World Application Development
+### Frontend
+- React.js
+- HTML5
+- CSS3
 
-### 🎯 Career Objective
+### Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
-Aspiring Software Engineer with a strong interest in web technologies and application development. Seeking internship opportunities to apply my technical skills, gain industry experience, and contribute to impactful projects while continuing to grow as a developer.
+### Tools
+- Git
+- GitHub
+- Postman
+- Swagger UI
+- VS Code
+- Uvicorn
+- ngrok
 
-### 📈 Beyond Coding
+---
 
-I believe in continuous learning, consistency, and building solutions that create real value. Every project is an opportunity to improve, innovate, and move one step closer to becoming a better engineer.
+## 🚀 Featured Projects
 
-📫 Open to Internship Opportunities, Collaborations, and Tech Discussions.
+### 🏢 TwinVerse – Smart Campus Digital Twin
+Backend Developer & Team Lead
 
-"Building practical solutions through code, curiosity, and continuous learning."
+- FastAPI Backend
+- Firebase Integration
+- REST APIs
+- Smart Analytics
+- Digital Twin Architecture
+
+---
+
+### 💄 Makeup Compatibility Analyzer *(Ongoing)*
+
+Full-stack application built using React, Node.js, Express.js, and Firecrawl API for personalized makeup compatibility analysis.
+
+---
+
+### 🚕 Auto Fare Anomaly Detector
+
+Machine Learning project that detects anomalous auto-rickshaw fares using regression models and data analytics.
+
+---
+
+### 📱 ZeroNet Control
+
+Python-based remote phone management solution using secure SMS command automation.
+
+---
+
+## 📈 Currently Working On
+
+- TwinVerse Smart Campus Digital Twin
+- Makeup Compatibility Analyzer
+- Backend Development
+- Software Engineering
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/ayman-zaara-a-a8980230
+- GitHub: https://github.com/aymanzaara-tech
+- Email: aymanzaara1234@gmail.com
+
+---
+
+⭐ Always learning, building, and improving through real-world software projects.
